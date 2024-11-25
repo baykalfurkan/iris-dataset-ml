@@ -9,8 +9,10 @@ Iris veri seti, makine öğrenimi alanında yaygın olarak kullanılan bir veri 
 - **Petal uzunluğu**
 - **Petal genişliği**
 
-Veri seti 3 sınıfa (setosa, versicolor, virginica) ayrılmıştır.                                                       
-![sphx_glr_plot_iris_dataset_001](https://github.com/user-attachments/assets/c1e129bf-fdb5-430a-b264-9275cc2a17e9)
+Veri seti 3 sınıfa (setosa, versicolor, virginica) ayrılmıştır.       
+
+![sphx_glr_plot_iris_dataset_001](https://github.com/user-attachments/assets/c1e129bf-fdb5-430a-b264-9275cc2a17e9)                                                                            
+[scatter_plot_iris.py](https://github.com/baykalfurkan/iris-dataset-ml/blob/a20646b63c85b0eb825ff4960fd6504baef37696/scatter_plot_iris.py)
 
 ![sphx_glr_plot_iris_dataset_002](https://github.com/user-attachments/assets/1ca7ee5c-9e9a-4a94-b14e-71a5c339c016)
 
